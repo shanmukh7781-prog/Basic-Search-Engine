@@ -5,3 +5,5 @@ This search engine application is built with HTML, CSS, JavaScript, React, and V
 - Development Tool: Vite  
 - Deployment: [Basic Search Engine ] (https://resilient-hummingbird-87a74c.netlify.app/)
 - Note: For the best experience, please open this application on a desktop browser.
+- ![basic search engine image](https://github.com/user-attachments/assets/a07cd89f-6bad-4927-8f33-1309db3a039c)
+
